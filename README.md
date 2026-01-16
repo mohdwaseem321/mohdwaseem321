@@ -3,7 +3,6 @@
  📊 Data Analytics Enthusiast <br>
  🛠 Skilled in SQL, Excel, Power BI, Python for Data Analysis <br>
  📈 Learning Data Visualization & Business Insights <br>
- ☁️ Exploring AWS for data & analytics workloads <br>
  💡 I love solving real-world problems using data <br><br>
  📧 How to reach me: mohdwaseemofficialid@gmail.com
 
