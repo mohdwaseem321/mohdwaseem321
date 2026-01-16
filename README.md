@@ -1,4 +1,4 @@
-# 👋 Hello! WELCOME 💫 
+# ✨ Hello!👋 Welcome to my GitHub profile 🚀
  🧑‍🎓 I'm Mohd Waseem<br>
  📊 Data Analytics Enthusiast <br>
  🛠 Skilled in SQL, Excel, Power BI, Python for Data Analysis <br>
