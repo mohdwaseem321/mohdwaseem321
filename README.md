@@ -1,9 +1,12 @@
-# ✨ Hello!👋 Welcome to my GitHub profile 🚀
+# 👋 Hello! Welcome to my GitHub 💫
  🧑‍🎓 I'm Mohd Waseem<br>
  📊 Data Analytics Enthusiast <br>
  🛠 Skilled in SQL, Excel, Power BI, Python for Data Analysis <br>
  📈 Learning Data Visualization & Business Insights <br>
  💡 I love solving real-world problems using data <br><br>
+
+  ✨ Fun Fact: Every dataset tells a story if you look closely 👀📊
+  
  📧 How to reach me: mohdwaseemofficialid@gmail.com
 
 
