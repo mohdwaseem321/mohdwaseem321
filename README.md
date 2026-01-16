@@ -1,5 +1,5 @@
 # 👋 Hello! WELCOME 💫 
- 🧑‍🎓 I'm Mohd Waseem<br><br>
+ 🧑‍🎓 I'm Mohd Waseem<br>
  📊 Data Analytics Enthusiast <br>
  🛠 Skilled in SQL, Excel, Power BI, Python for Data Analysis <br>
  📈 Learning Data Visualization & Business Insights <br>
