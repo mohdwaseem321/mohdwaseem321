@@ -6,62 +6,13 @@
 ## 🧩 About Me  
 I am a motivated **Data Analyst** who enjoys transforming complex datasets into clear, actionable insights. My strength lies in combining **analytical thinking** with **visual storytelling** to support business decisions. I am actively building real-world projects and continuously upgrading my technical skill set.
 
----
+✨ Fun Fact: Every dataset tells a story if you look closely 👀📊
+  
+ 📧 How to reach me: mohdwaseemofficialid@gmail.com
 
-## 🛠 Technical Skills  
 
-### 🧑‍💻 Programming & Querying  
-- **Python**: Pandas, NumPy, Scikit-learn  
-- **SQL**: PostgreSQL, MySQL  
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_mohd.waseem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-waseem321) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdwaseemofficialid@gmail.com) 
 
-### 📊 Data Visualization & BI  
-- **Power BI** – DAX, Interactive Dashboards  
-- **Tableau**  
-- **Matplotlib**, **Seaborn**
-
-### ⚙️ Tools & Platforms  
-- **Advanced Excel** – Power Query, Pivot Tables, Dashboards  
-- **Git / GitHub** – Version Control  
-- **Cloud** – Interested in AWS & cloud-based analytics ☁️  
-
----
-
-## 📁 Featured Projects  
-
-### 🔹 Data Cleaning & Transformation  
-- Data preprocessing using Python  
-- Missing value treatment and outlier handling  
-
-### 🔹 Exploratory Data Analysis (EDA)  
-- Statistical analysis and trend identification  
-- Insight generation through visual exploration  
-
-### 🔹 Business Intelligence Dashboard  
-- End-to-end **Power BI dashboard**  
-- KPI tracking and management reporting  
-
-📌 *Repositories and live dashboards will be added soon.*
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-</p>
-
----
-
-## 🌐 Let’s Connect  
-
-- 🔗 **LinkedIn**: https://linkedin.com/in/your-profile  
-- 📩 **Email**: your.email@example.com  
-
----
-
-🚀 *Actively seeking Data Analyst roles where I can contribute, learn, and grow.*
-
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
